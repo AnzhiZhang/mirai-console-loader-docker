@@ -3,4 +3,4 @@ FROM eclipse-temurin:19-jre
 WORKDIR /mcl
 COPY ./ /mcl
 
-CMD java -jar mcl.jar %*
+CMD ls ; echo "$PWD" ; java -jar mcl.jar %*
