@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.3](https://github.com/AnzhiZhang/mirai-console-loader-docker/compare/v2.1.2...v2.1.3) (2023-03-14)
+
+
+### Bug Fixes
+
+* fix github action step name ([86037fb](https://github.com/AnzhiZhang/mirai-console-loader-docker/commit/86037fbc39f9c0374a07e50d70b0c997021e1528))
+
 ## 2.1.2 (2023-02-14)
 
 
